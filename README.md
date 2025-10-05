@@ -4,8 +4,8 @@ Hello! This is my first GitHub repository where I'll organize my study materials
 I'm learning about version control systems and digital collaboration.
 
 ## About Me
-- Student at [Your School Name]
-- Major: [Your Major]
+- Student at Seneca College
+- Major: Computer Programming and Analysis
 - Interested in organizing and sharing knowledge
 
 ## What I'll Store Here
